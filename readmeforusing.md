@@ -3,7 +3,7 @@ Bacon
 =>English
 1. Dowload Bacon.zip
 2. extract file Bacon.zip
-3. Open Bacon folder
+3. Open Bacon folder=>New Folder=>Bacon Folder
 4. Click Bacon.exe
 5. Open Bloxstrap
 6. Join in the game
@@ -13,7 +13,7 @@ Bacon
 =>Vietnamese
 1. Tải Bacon.zip
 2. Giải nén file Bacon.zip
-3. Mở file Bacon folder ( vừa giải nén ra )
+3. Mở file Bacon folder=>New Folder=>Bacon Folder ( vừa giải nén ra )
 4. Nhấn vào Bacon.exe
 5. Mở Bloxstrap
 6. Vào game
