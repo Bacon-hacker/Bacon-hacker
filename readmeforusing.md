@@ -1,6 +1,6 @@
 Bacon
 
-1.English
+=>English
 1. Dowload Bacon.zip
 2. extract file Bacon.zip
 3. Open Bacon folder
@@ -10,7 +10,7 @@ Bacon
 7. Inject into the game ( Waring: Dont close Console app! )
 8. Enjoy!
 
-1.Vietnamese
+=>Vietnamese
 1. Tải Bacon.zip
 2. Giải nén file Bacon.zip
 3. Mở file Bacon folder ( vừa giải nén ra )
