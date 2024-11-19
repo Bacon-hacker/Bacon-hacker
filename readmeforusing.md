@@ -1,6 +1,6 @@
 Bacon
-1. Dowload Bacon.rar
-2. extract file Bacon.rar
+1. Dowload Bacon.zip
+2. extract file Bacon.zip
 3. Open Bacon folder
 4. Click Bacon.exe
 5. Open Bloxstrap
